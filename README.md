@@ -1,6 +1,6 @@
-# Airtribe Backend API
+# Online-Teaching-Platform-Backend-API
 
-This backend API powers the course management system for Airtribe, an online learning platform. It facilitates instructors in creating courses, allows learners to sign up for them, and enables instructors to engage with learners through comments.
+This backend API powers the course management system for an online learning platform. It facilitates instructors in creating courses, allows learners to sign up for them, and enables instructors to engage with learners through comments.
 
 ## Database Design
 
@@ -30,12 +30,12 @@ To set up and run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Sunny12110867/Airtribe_Backend_Project.git
+    git clone https://github.com/Sunny12110867/Online-Teaching-Platform-Backend-API.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Airtribe_Backend_Project
+    cd Online-Teaching-Platform-Backend-API
 
     ```
 
